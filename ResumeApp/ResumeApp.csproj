@@ -63,6 +63,9 @@
     <EmbeddedResource Include="authentication_form.resx">
       <DependentUpon>authentication_form.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="info_submit_form.resx">
+      <DependentUpon>info_submit_form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
