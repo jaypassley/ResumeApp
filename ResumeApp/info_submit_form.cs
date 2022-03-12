@@ -16,5 +16,15 @@ namespace ResumeApp
         {
             InitializeComponent();
         }
+
+        private void info_submit_form_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
